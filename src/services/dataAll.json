@@ -1,0 +1,392 @@
+{
+    "COFFEE" : [
+        {
+            "id" : 1,
+            "name" : "아메리카노",
+            "price" : "3,500",
+            "temperature" : "all",
+            "cup" : "icecup",
+            "color" : "#261309",
+            "cream" : 0,
+            "teabag" : 0,
+            "description" : "고소한 풍미의 아메리카노",
+            "imgSrc" : "img_menu_test.jpg"
+        },
+        {
+            "id" : 2,
+            "name" : "플랫화이트",
+            "price" : "4,000",
+            "temperature" : "all",
+            "cup" : "icecup",
+            "color" : "#844F32",
+            "cream" : 0,
+            "teabag" : 0,
+            "description" : "라떼보다 더 진해요",
+            "imgSrc" : null
+        },
+        {
+            "id" : 3,
+            "name" : "카페라떼",
+            "price" : "4,000",
+            "temperature" : "all",
+            "cup" : "icecup",
+            "color" : "#C18559",
+            "cream" : 0,
+            "teabag" : 0,
+            "description" : "고소한 우유에 진한 에스프레소",
+            "imgSrc" : null
+        },
+        {
+            "id" : 4,
+            "name" : "카푸치노",
+            "price" : "4,000",
+            "temperature" : "onlyHot",
+            "cup" : "lattecup",
+            "color" : "#C18559",
+            "cream" : 0,
+            "teabag" : 0,
+            "description" : "풍부한 우유거품위에 시나몬 한수푼",
+            "imgSrc" : null
+        },
+        {
+            "id" : 5,
+            "name" : "아몬드브리즈라떼",
+            "price" : "4,000",
+            "temperature" : "all",
+            "cup" : "icecup",
+            "color" : "#C18559",
+            "cream" : 0,
+            "teabag" : 0,
+            "description" : "다이어터를 위한 아몬드브리즈라떼",
+            "imgSrc" : null
+        },
+        {
+            "id" : 6,
+            "name" : "바닐라라떼",
+            "price" : "4,500",
+            "temperature" : "all",
+            "cup" : "icecup",
+            "color" : "#C18559",
+            "cream" : 0,
+            "teabag" : 0,
+            "description" : "부드럽고 달달한 바닐라라떼",
+            "imgSrc" : null
+        },
+        {
+            "id" : 7,
+            "name" : "카라멜마끼아또",
+            "price" : "4,500",
+            "temperature" : "all",
+            "cup" : "icecup",
+            "color" : "#C18559",
+            "cream" : 0,
+            "teabag" : 0,
+            "description" : "카라멜향과 맛이 풍부한 라떼",
+            "imgSrc" : null
+        },
+        {
+            "id" : 8,
+            "name" : "돌체라떼",
+            "price" : "5,000",
+            "temperature" : "onlyIce",
+            "cup" : "icecup",
+            "color" : "#C18559",
+            "cream" : 1,
+            "teabag" : 0,
+            "description" : "연유가 들어간 달달한.....",
+            "imgSrc" : null
+        },
+        {
+            "id" : 9,
+            "name" : "아인슈페너",
+            "price" : "5,500",
+            "temperature" : "onlyIce",
+            "cup" : "icecup",
+            "color" : "#ffeeff",
+            "cream" : 1,
+            "teabag" : 0,
+            "description" : "대표메뉴",
+            "imgSrc" : null
+        },
+        {
+            "id" : 10,
+            "name" : "쑥크림라떼",
+            "price" : "6,000",
+            "temperature" : "onlyIce",
+            "cup" : "icecup",
+            "color" : "#C18559",
+            "cream" : 1,
+            "teabag" : 0,
+            "description" : "라떼위에 쑥크림",
+            "imgSrc" : null
+        },
+        {
+            "id" : 11,
+            "name" : "흑임자슈페너",
+            "price" : "6,000",
+            "temperature" : "onlyIce",
+            "cup" : "icecup",
+            "color" : "#C18559",
+            "cream" : 1,
+            "teabag" : 0,
+            "description" : "라떼위에 쑥크림",
+            "imgSrc" : null
+        }
+    ],
+    "NON-COFFEE" : [
+        {
+            "id" : 1,
+            "name" : "토미넛라떼",
+            "price" : "4,500",
+            "temperature" : "all",
+            "cup" : "icecup",
+            "color" : "#C1915D",
+            "cream" : 0,
+            "teabag" : 0,
+            "description" : "토피넛향과 맛의 라떼",
+            "imgSrc" : null
+        },
+        {
+            "id" : 2,
+            "name" : "초코라떼",
+            "price" : "4,500",
+            "temperature" : "all",
+            "cup" : "icecup",
+            "color" : "#513123",
+            "cream" : 0,
+            "teabag" : 0,
+            "description" : "애기입맛에는 초코라떼",
+            "imgSrc" : null
+        },
+        {
+            "id" : 3,
+            "name" : "말차라떼",
+            "price" : "4,500",
+            "temperature" : "all",
+            "cup" : "icecup",
+            "color" : "#677F45",
+            "cream" : 0,
+            "teabag" : 0,
+            "description" : "씁쓸하게 달달하게",
+            "imgSrc" : null
+        },
+        {
+            "id" : 4,
+            "name" : "쑥라떼",
+            "price" : "4,500",
+            "temperature" : "all",
+            "cup" : "icecup",
+            "color" : "#46562F",
+            "cream" : 0,
+            "teabag" : 0,
+            "description" : "할미입맛 저격",
+            "imgSrc" : null
+        },
+        {
+            "id" : 5,
+            "name" : "얼그레이라떼",
+            "price" : "4,500",
+            "temperature" : "all",
+            "cup" : "icecup",
+            "color" : "#AA7A5C",
+            "cream" : 0,
+            "teabag" : 0,
+            "description" : "고급스러운 얼그레이",
+            "imgSrc" : null
+        }
+    ],
+    "TEA" : [
+        {
+            "id" : 1,
+            "name" : "캐모마일",
+            "price" : "3,800",
+            "temperature" : "all",
+            "cup" : "teacup",
+            "color" : "#F8D669",
+            "cream" : 0,
+            "teabag" : 1,
+            "description" : "편안함을 주는 캐모마일",
+            "imgSrc" : null
+        },
+        {
+            "id" : 2,
+            "name" : "페퍼민트",
+            "price" : "3,800",
+            "temperature" : "all",
+            "cup" : "teacup",
+            "color" : "#F8EC6F",
+            "cream" : 0,
+            "teabag" : 1,
+            "description" : "깔끔한 페퍼민트",
+            "imgSrc" : null
+        },
+        {
+            "id" : 3,
+            "name" : "복숭아 아이스티",
+            "price" : "3,800",
+            "temperature" : "all",
+            "cup" : "icecup",
+            "color" : "#5F2E05",
+            "cream" : 0,
+            "teabag" : 0,
+            "description" : "시원하게 달달하게.",
+            "imgSrc" : null
+        },
+        {
+            "id" : 4,
+            "name" : "수제 자몽티",
+            "price" : "4,500",
+            "temperature" : "all",
+            "cup" : "teacup",
+            "color" : "#F05D3F",
+            "cream" : 0,
+            "teabag" : 0,
+            "description" : "수제 자몽청이 들어가요.",
+            "imgSrc" : null
+        },
+        {
+            "id" : 5,
+            "name" : "수제 레몬티",
+            "price" : "4,500",
+            "temperature" : "all",
+            "cup" : "teacup",
+            "color" : "#FFE300",
+            "cream" : 0,
+            "teabag" : 0,
+            "description" : "수제 레몬청이 들어가요.",
+            "imgSrc" : null
+        }
+    ],
+    "ADE & JUICE" : [
+        {
+            "id" : 1,
+            "name" : "수제 자몽에이드",
+            "price" : "5,000",
+            "temperature" : "onlyIce",
+            "cup" : "icecup",
+            "color" : "#FF713F",
+            "cream" : 1,
+            "teabag" : 0,
+            "description" : "수제 자몽청이 들어가요.",
+            "imgSrc" : null
+        },
+        {
+            "id" : 2,
+            "name" : "수제 레몬에이드",    
+            "price" : "5,000",
+            "temperature" : "onlyIce",
+            "cup" : "icecup",
+            "color" : "#FAFF74",
+            "cream" : 0,
+            "teabag" : 0,
+            "description" : "수제 레몬청이 들어가요.",
+            "imgSrc" : null
+        },
+        {
+            "id" : 3,
+            "name" : "토마토주스",
+            "price" : "5,500",
+            "temperature" : "onlyIce",
+            "cup" : "icecup",
+            "color" : "#Fb461D",
+            "cream" : 1,
+            "teabag" : 0,
+            "description" : "바로 갈아 만든 건강한 음료",
+            "imgSrc" : null
+        }
+    ],
+    "SANDWICH" : [
+        {
+            "id" : 1,
+            "name" : "에그햄 샌드위치",
+            "cup" : "icecup",
+            "price" : "6,500",
+            "menuImg" : "url",
+            "ingredient" : "식빵, 양상추, 계란후라이, 치즈, 햄, 소스",
+            "description" : "신선한 샌드위치",
+            "imgSrc" : null
+        },
+        {
+            "id" : 2,
+            "name" : "닭가슴살 샌드위치",
+            "cup" : "icecup",
+            "price" : "6,500",
+            "menuImg" : "url",
+            "ingredient" : "식빵, 양상추, 계란후라이, 치즈, 닭가슴살, 소스",
+            "description" : "신선한 샌드위치",
+            "imgSrc" : null
+        },
+        {
+            "id" : 3,
+            "name" : "와사비크래미 샌드위치",
+            "cup" : "icecup",
+            "price" : "6,500",
+            "menuImg" : "url",
+            "ingredient" : "식빵, 양상추, 계란후라이, 치즈, 크래미, 소스",
+            "description" : "신선한 샌드위치",
+            "imgSrc" : null
+        },
+        {
+            "id" : 4,
+            "name" : "단호박 샌드위치",
+            "cup" : "icecup",
+            "price" : "6,500",
+            "menuImg" : "url",
+            "ingredient" : "식빵, 양상추, 치즈, 단호박, 소스",
+            "description" : "신선한 샌드위치",
+            "imgSrc" : null
+        }
+    ],
+    "DESSERT" : [
+        {
+            "id" : 1,
+            "name" : "플레인 크로플",
+            "cup" : "icecup",
+            "price" : "4,000",
+            "menuImg" : "url",
+            "ingredient" : null,
+            "description" : "바로 구운 크로플에 메이플 시럽",
+            "imgSrc" : null
+        },
+        {
+            "id" : 2,
+            "name" : "아이스크림 크로플",
+            "cup" : "icecup",
+            "price" : "5,000",
+            "menuImg" : "url",
+            "ingredient" : null,
+            "description" : "바로 구운 크로플에 달달한 아이스크림",
+            "imgSrc" : null
+        },
+        {
+            "id" : 3,
+            "name" : "바스크 치즈케이크",
+            "cup" : "icecup",
+            "price" : "5,500",
+            "menuImg" : "url",
+            "ingredient" : null,
+            "description" : "직접만들어 구운 치즈케이크",
+            "imgSrc" : null
+        },
+        {
+            "id" : 4,
+            "name" : "테린느(얼그레이, 흑임자, 말차)",
+            "cup" : "icecup",
+            "price" : "5,000",
+            "menuImg" : "url",
+            "ingredient" : null,
+            "description" : "얼그레이, 흑임자, 말차. 직접만든 꾸덕한 테린느. ",
+            "imgSrc" : null
+        },
+        {
+            "id" : 5,
+            "name" : "얼그레이 파운드",
+            "cup" : "icecup",
+            "price" : "3,500",
+            "menuImg" : "url",
+            "ingredient" : null,
+            "description" : "겉바속촉 파운드",
+            "imgSrc" : null
+        }
+    ]
+}

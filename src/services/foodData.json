@@ -1,0 +1,21 @@
+{
+    "sandwich" : [
+        {
+            "id" : 1,
+            "name" : "에그햄 샌드위치",
+            "menuImg" : "url",
+            "ingredient" : "식빵, 양상추, 계란후라이, 치즈, 햄, 소스",
+            "description" : "신선한 샌드위치"
+        }
+    ],
+    "dessert" : [
+        {
+            "id" : 1,
+            "name" : "플레인 크로플",
+            "menuImg" : "url",
+            "ingredient" : null,
+            "description" : "바로 구운 크로플에 메이플 시럽"
+        }
+    ]
+
+}

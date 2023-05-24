@@ -1,0 +1,68 @@
+{
+    "coffee" : [
+        {
+            "id" : 1,
+            "name" : "아메리카노",
+            "temperature" : "all",
+            "shot" : 1,
+            "water" : 1,
+            "milk" : 0,
+            "sirup" : 0,
+            "cream" : 0,
+            "teabag" : 0,
+            "description" : "고소한 풍미의 아메리카노"
+        },
+        {
+            "id" : 2,
+            "name" : "아인슈페너",
+            "temperature" : "onlyIce",
+            "shot" : 1,
+            "water" : 0,
+            "milk" : 1,
+            "sirup" : "#ffeeff",
+            "cream" : 1,
+            "teabag" : 0,
+            "description" : "대표메뉴"
+        }
+    ],
+    "nonCoffee" : [
+        {
+            "id" : 1,
+            "name" : "쑥라떼",
+            "temperature" : "all",
+            "shot" : 0,
+            "water" : 0,
+            "milk" : 1,
+            "sirup" : 0,
+            "cream" : 1,
+            "teabag" : 0,
+            "description" : "할미입맛 저격"
+        }
+    ],
+    "teaAde" : [
+        {
+            "id" : 1,
+            "name" : "수제자몽티",
+            "temperature" : "all",
+            "shot" : 0,
+            "water" : 0,
+            "milk" : 1,
+            "sirup" : "#ff7f50",
+            "cream" : 1,
+            "teabag" : 0,
+            "description" : "수제 자몽청으로 만들어요."
+        },
+        {
+            "id" : 2,
+            "name" : "캐모마일",    
+            "temperature" : "all",
+            "shot" : 0,
+            "water" : 1,
+            "milk" : 0,
+            "sirup" : 0,
+            "cream" : 0,
+            "teabag" : 1,
+            "description" : "편안함을 주는 캐모마일향을 즐겨보세요."
+        }
+    ]
+}

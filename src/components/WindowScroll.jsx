@@ -24,8 +24,8 @@ const WindowItem = () => {
 		const windowRefH = windowRef.current.clientHeight;
 		const windowHalf = Math.ceil(( windowScreen - windowRefH) / 2);
 		windowRefHSet(windowHalf + 1);
-		console.log(windowScreen)
-		console.log(windowIn)
+		// console.log(windowScreen)
+		// console.log(windowIn)
 		windowScreenHSet(windowScreen);
 		windowPosTopSet(windowScreen - windowIn)
 		windowTop.clientHeight = windowHalf + 'px';

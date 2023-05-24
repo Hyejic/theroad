@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import menuData from "../services/dataAll.json";
-import Submenu from '../components/Submenu.jsx';
+import Submenu from '../components/Submenu';
 
 const Menu = () => {
     const depth01 = Object.keys(menuData);
